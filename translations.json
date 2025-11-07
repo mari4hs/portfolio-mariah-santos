@@ -1,0 +1,132 @@
+{
+    "translations": {
+        "pt": {
+            "loadingPortfolio": "Carregando Portfólio...",
+            "nav": {
+                "home": "Início",
+                "about": "Sobre Mim",
+                "skills": "Habilidades",
+                "projects": "Projetos",
+                "contact": "Contato"
+            },
+            "hero": {
+                "title": "Mariah Santos",
+                "subtitle": "Desenvolvedora Front-End",
+                "description": "Transformando criatividade em experiências digitais interativas e memoráveis",
+                "buttonProjects": "Ver Projetos",
+                "buttonDownloadCV": "Baixar CV"
+            },
+            "about": {
+                "title": "Sobre Mim",
+                "story1": "Olá! Me chamo Mariah Santos, atualmente sou estudante de Engenharia de Software pela Universidade Estácio de Sá e encontrei no desenvolvimento front-end a forma perfeita de unir duas paixões: criatividade e tecnologia.",
+                "story2": "Minha história com esse universo começou de forma natural: Desde muito nova administrei fã-clubes em redes sociais como Instagram, Facebook e YouTube, onde era responsável por criar artes, layouts, curiosidades e até vídeos para artistas que admiro. Essas experiências me despertaram o interesse por interfaces visuais e coincidentemente me levaram ao mundo do desenvolvimento.",
+                "story3": "Hoje, atuo com HTML, CSS, JavaScript, React, Node.js e UX/UI Design, além de estar evoluindo meus conhecimentos em TypeScript. Meu principal objetivo é desenvolver interfaces que sejam não apenas funcionais, mas também envolventes e impactantes, transformando ideias em experiências digitais que conectam pessoas.",
+                "skillsTitle": "Minhas Habilidades",
+                "skillsDescription": "Passe o mouse sobre uma habilidade para ver detalhes",
+                "skills": {
+                    "html": "HTML/CSS",
+                    "js": "JavaScript",
+                    "react": "React",
+                    "node": "Node.js",
+                    "uxui": "UX/UI Design",
+                    "ts": "TypeScript",
+                    "git": "Git & GitHub"
+                },
+                "skillDescriptions": {
+                    "html": "Estruturação e estilização de páginas web responsivas",
+                    "js": "Programação front-end para interatividade e dinamismo",
+                    "react": "Desenvolvimento de interfaces componentizadas e reativas",
+                    "node": "JavaScript no back-end para aplicações full-stack",
+                    "uxui": "Criação de interfaces intuitivas e experiências usuário",
+                    "ts": "JavaScript tipado para maior confiabilidade no código",
+                    "git": "Controle de versão e colaboração em projetos"
+                }
+            },
+            "skills": {
+                "title": "Habilidades Técnicas"
+            },
+            "projects": {
+                "title": "Meus Projetos",
+                "filterAll": "Todos",
+                "filterWeb": "Web",
+                "filterGames": "Jogos",
+                "filterVscode": "VS Code"
+            },
+            "contact": {
+                "title": "Entre em Contato",
+                "whatsapp": "Entrar em contato via WhatsApp",
+                "formName": "Seu Nome",
+                "formEmail": "Seu E-mail",
+                "formMessage": "Sua Mensagem",
+                "formSubmit": "Enviar Mensagem"
+            },
+            "footer": {
+                "copyright": "© 2025 Mariah Santos."
+            }
+        },
+        "en": {
+            "loadingPortfolio": "Loading Portfolio...",
+            "nav": {
+                "home": "Home",
+                "about": "About Me",
+                "skills": "Skills",
+                "projects": "Projects",
+                "contact": "Contact"
+            },
+            "hero": {
+                "title": "Mariah Santos",
+                "subtitle": "Front-End Developer",
+                "description": "Transforming creativity into interactive and memorable digital experiences",
+                "buttonProjects": "View Projects",
+                "buttonDownloadCV": "Download CV"
+            },
+            "about": {
+                "title": "About Me",
+                "story1": "Hello! My name is Mariah Santos, I am currently a Software Engineering student at Estácio de Sá University and I found in front-end development the perfect way to combine two passions: creativity and technology.",
+                "story2": "My story with this universe started naturally: Since I was very young, I managed fan clubs on social media like Instagram, Facebook and YouTube, where I was responsible for creating arts, layouts, curiosities and even videos for artists I admire. These experiences awakened my interest in visual interfaces and coincidentally led me to the world of development.",
+                "story3": "Today, I work with HTML, CSS, JavaScript, React, Node.js and UX/UI Design, in addition to evolving my knowledge in TypeScript. My main goal is to develop interfaces that are not only functional, but also engaging and impactful, transforming ideas into digital experiences that connect people.",
+                "skillsTitle": "My Skills",
+                "skillsDescription": "Hover over a skill to see details",
+                "skills": {
+                    "html": "HTML/CSS",
+                    "js": "JavaScript",
+                    "react": "React",
+                    "node": "Node.js",
+                    "uxui": "UX/UI Design",
+                    "ts": "TypeScript",
+                    "git": "Git & GitHub"
+                },
+                "skillDescriptions": {
+                    "html": "Structuring and styling responsive web pages",
+                    "js": "Front-end programming for interactivity and dynamism",
+                    "react": "Development of componentized and reactive interfaces",
+                    "node": "JavaScript on the back-end for full-stack applications",
+                    "uxui": "Creating intuitive interfaces and user experiences",
+                    "ts": "Typed JavaScript for greater code reliability",
+                    "git": "Version control and project collaboration"
+                }
+            },
+            "skills": {
+                "title": "Technical Skills"
+            },
+            "projects": {
+                "title": "My Projects",
+                "filterAll": "All",
+                "filterWeb": "Web",
+                "filterGames": "Games",
+                "filterVscode": "VS Code"
+            },
+            "contact": {
+                "title": "Get in Touch",
+                "whatsapp": "Contact via WhatsApp",
+                "formName": "Your Name",
+                "formEmail": "Your Email",
+                "formMessage": "Your Message",
+                "formSubmit": "Send Message"
+            },
+            "footer": {
+                "copyright": "© 2025 Mariah Santos."
+            }
+        }
+    }
+}
